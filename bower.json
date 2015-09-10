@@ -2,6 +2,7 @@
   "name": "jay-blog",
   "private": true,
   "dependencies": {
+    "angular": "~1.4.5",
     "bootstrap-sass": "~3.3.5",
     "modernizr": "~2.8.3"
   },
